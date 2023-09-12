@@ -14,6 +14,5 @@
 ## > 課堂練習區 :book:
 
 ## > 作業連結區 :pencil:
-[My Website](https://hsing-tzu.github.io/TradingTrain/Homework%201/)
-
+[My Website]()
 ## > 專題連結區 🔜
