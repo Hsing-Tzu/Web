@@ -14,5 +14,5 @@
 ## > 課堂練習區 :book:
 
 ## > 作業連結區 :pencil:
-[My Website]()
+[My Website](https://hsing-tzu.github.io/Hsing-Tzu/)
 ## > 專題連結區 🔜
