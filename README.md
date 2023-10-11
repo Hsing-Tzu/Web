@@ -14,5 +14,6 @@
 ## > 課堂練習區 :book:
 
 ## > 作業連結區 :pencil:
-[My Website](https://hsing-tzu.github.io/Hsing-Tzu/)
+### - HW1 [My Website](https://hsing-tzu.github.io/Hsing-Tzu/)
+### - HW2 [Development Environment Setting](https://www.youtube.com/watch?v=9dRXiToZuH4) / [Advanced](https://youtu.be/1AhiBY4fIxs)
 ## > 專題連結區 🔜
