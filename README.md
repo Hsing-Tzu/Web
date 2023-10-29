@@ -16,4 +16,5 @@
 ## > 作業連結區 :pencil:
 ### - HW1 [My Website](https://hsing-tzu.github.io/Hsing-Tzu/)
 ### - HW2 [Development Environment Setting](https://www.youtube.com/watch?v=9dRXiToZuH4) / [Advanced](https://youtu.be/1AhiBY4fIxs)
+### - HW3 [Javascript Practice](https://www.youtube.com/watch?v=pdhXBBHUXYs)
 ## > 專題連結區 🔜
